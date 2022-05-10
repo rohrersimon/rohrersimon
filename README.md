@@ -1,5 +1,5 @@
 <h1>Hi, I'm Simon! <br/>
-<a href="https://github.com/rohrersimon">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<aAspiring IT professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Help Desk Projects:</h2>
 
