@@ -1,5 +1,5 @@
 <h1>Hi, I'm Simon! <br/>
-<a>Aspiring IT professional, Career Changer, and Customer Service Professional</a></h1>
+<a>Graduate, Career Changer, and Aspiring IT professional</a></h1>
 
 <h2>👨‍💻 Help Desk Projects:</h2>
 
