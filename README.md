@@ -3,7 +3,7 @@
 <h2>👨‍💻 Help Desk Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Active Directory with PowerShell](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory with PowerShell](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
