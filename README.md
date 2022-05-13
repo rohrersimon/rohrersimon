@@ -7,7 +7,7 @@
   - [Active Directory Home Lab (ongoing)](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
 
 - <b>Python</b>
-  - [Python3 coding project (planned for future)]
+  - Python3 coding project (planned for future)
 
 <h2> 🤳 Connect with me:</h2>
 
