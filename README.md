@@ -4,10 +4,10 @@
 <h2>👨‍💻 Help Desk Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Active Directory with PowerShell](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
+  - [Active Directory](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
 
-- <b>Python3</b>
-  - [Active Directory with PowerShell](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
+- <b>Python</b>
+  - [Python3 coding project](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
 
 <h2> 🤳 Connect with me:</h2>
 
