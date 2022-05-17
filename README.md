@@ -4,7 +4,7 @@
 <h2>👨‍💻 Help Desk Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Active Directory Home Lab (ongoing)](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
+  - [Active Directory Home Lab](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
 
 - <b>Python</b>
   - Python3 coding project (planned for future)
