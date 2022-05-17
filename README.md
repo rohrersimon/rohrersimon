@@ -4,10 +4,8 @@
 <h2>👨‍💻 Help Desk Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/rohrersimon/Active-Directory-with-PowerShell)
-
-- <b>Python</b>
-  - Python3 coding project (planned for future)
+  - [Active Directory Home Lab](https://github.com/rohrersimon/Active-Directory-Home-Lab)
+  - [Active Directory Password Reset](https://github.com/rohrersimon/Active-Directory-Password-Reset)
 
 <h2> 🤳 Connect with me:</h2>
 
