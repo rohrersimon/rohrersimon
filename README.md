@@ -4,7 +4,7 @@
 <h2>👨‍💻 Help Desk Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/rohrersimon/Active-Directory-Home-Lab)
+  - [Active Directory Home Lab Setup](https://github.com/rohrersimon/Active-Directory-Home-Lab)
   - [Active Directory Password Reset](https://github.com/rohrersimon/Active-Directory-Password-Reset)
 
 <h2> 🤳 Connect with me:</h2>
