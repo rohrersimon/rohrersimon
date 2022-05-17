@@ -11,9 +11,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="rohrersimon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/rohrersimon/
+LinkedIn: https://www.linkedin.com/in/rohrersimon/
 
 <!--
 **rohrersimon/rohrersimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
