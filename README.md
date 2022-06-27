@@ -13,7 +13,7 @@
     - Official study cards learned: 73 of 328
     - Own study cards: 14 total
     - Notes on objectives: 1.1 to 1.3 (5.7 last objective)
-- Python scripting
+- [Python scripting](https://github.com/rohrersimon/Python3-first-project)
     - 2.16 hours out of 13.40 hours course
 
 <h2> 🤳 Connect with me:</h2>
