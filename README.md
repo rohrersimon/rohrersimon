@@ -18,7 +18,7 @@
 <h2>Python</h2>
 
 - [Python scripting exercises](https://github.com/rohrersimon/Python-for-Everybody)
-- Course completion: 2.25 out of 13.40 hours
+- Course completion: 2:58 out of 13:40 hours
 
 <h2> Connect with me 🤳</h2>
 
