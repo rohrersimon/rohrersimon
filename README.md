@@ -10,7 +10,7 @@
 
 - CompTIA A+ Certification
   - Core 1 Exam:
-    - Official study cards learned: 137 of 328
+    - Official study cards learned: 166 of 328
     - Own study cards: 14 total
     - Notes on objectives: 1.1 to 1.3 (5.7 last objective)
   - Core 2 Exam: study starts when I pass core 1
