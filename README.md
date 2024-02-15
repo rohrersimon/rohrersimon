@@ -1,5 +1,4 @@
 # Hi, I'm Simon!
-
 ## Courses and Certifications
 - Networking Basics – CISCO
 - DevOps Pre-Requisite Course – KodeKloud
@@ -8,7 +7,7 @@
 - Foundational C# with Microsoft – freeCodeCamp
 - Azure Foundations (AZ-900), course finished incl. practice exam – Microsoft
 
-Courses in progress:
+## Courses in progress
 - CS50p Harvard's Intrudoction to Pyton
 
 ## Connect with me 🤳
