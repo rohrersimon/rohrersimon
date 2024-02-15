@@ -1,5 +1,6 @@
 # Hi, I'm Simon!
 Here I document my IT journey and show projects I'm working on.
+Have a look at my public repositories!
 
 ## Courses and Certifications
 - Networking Basics – CISCO
