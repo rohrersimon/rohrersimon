@@ -1,4 +1,6 @@
 # Hi, I'm Simon!
+Here I document my IT journey and show projects I'm working on.
+
 ## Courses and Certifications
 - Networking Basics – CISCO
 - DevOps Pre-Requisite Course – KodeKloud
@@ -11,5 +13,4 @@
 - CS50p Harvard's Intrudoction to Pyton
 
 ## Connect with me 🤳
-
 - <b>[LinkedIn](https://www.linkedin.com/in/rohrersimon/)</b>
