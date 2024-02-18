@@ -8,7 +8,7 @@ Have a look at my public repositories!
 - Introduction to Cyber Security: Offensive &Defensive Security – TryHackMe
 - Pre Security Learnig Path: Network, Linux and Windows fundamentals – TryHackMe
 - Foundational C# with Microsoft – freeCodeCamp
-- Azure Foundations (AZ-900), course finished incl. practice exam – Microsoft
+- Azure Foundations (AZ-900), incl. pass practice exams – Microsoft
 
 ## Courses in progress
 - CS50p Harvard's Intrudoction to Pyton
